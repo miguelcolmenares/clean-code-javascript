@@ -199,7 +199,7 @@ function pintarCoche(coche) {
 const Coche = {
   marca: "Honda",
   modelo: "Accord",
-  color: "Rojo"
+  color: "Azul"
 };
 
 function pintarCoche(coche) {
